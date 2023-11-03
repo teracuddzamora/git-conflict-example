@@ -1,6 +1,6 @@
 # git-conflict-example
 
-
+text text
 ##Remote Work!
 
-oh nooooo
+uh huh uh
